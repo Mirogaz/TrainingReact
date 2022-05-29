@@ -1,8 +1,11 @@
 import './App.scss';
+import Message from './components/Message/Message';
+
 
 function App() {
+  
   return (
-    <h1>Hi</h1>
+    <Message message='Andrey'/>
   );
 }
 
