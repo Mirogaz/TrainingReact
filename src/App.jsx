@@ -5,7 +5,7 @@ import Message from './components/Message/Message';
 function App() {
   
   return (
-    <Message message='Andrey'/>
+    <Message message='User'/>
   );
 }
 
